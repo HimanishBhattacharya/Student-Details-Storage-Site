@@ -1,0 +1,39 @@
+Contact: 
+Name: Himanish Bhattacharya 
+Email: bhattacharyahimanish0505@gmail.com 
+Phone: 7031134807 
+Linkedin Profile: http;//Linkedin/Himanish.com
+
+Personal: 
+Age: 20 
+Height: 158 
+Gender: Male
+
+Educational: 
+Undergoing Course: Computer Science
+Addmission Year: 2017 
+Duration of Course: 4 
+Name of Institution: Siliguri Institute of Technology
+-----------------------------------------------------------------
+
+
+
+Contact: 
+Name: Karan Agarwal 
+Email: karanjindal@gmail.com 
+Phone: 7001234567 
+Linkedin Profile: http;//Linkedin/Karan.com 
+
+Personal: 
+Age: 21 
+Height: 164 
+Gender: Male
+
+Educational: 
+Undergoing Course: Computer Science
+Addmission Year: 2017 
+Duration of Course: 4 
+Name of Institution: Siliguri Institute of Technology
+-----------------------------------------------------------------
+
+
